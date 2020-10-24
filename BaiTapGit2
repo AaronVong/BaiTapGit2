@@ -2,7 +2,7 @@
 using namespace std;
 
 
-void  tinhchuvidientich()
+void tinhchuvidientich()
 {
 	int a, b;
 	//chu vi hình chữ nhật
